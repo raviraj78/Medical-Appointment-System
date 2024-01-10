@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+            "status.background": "#158b64",
+            "statusBar.foreground": "#158b64",
+            "terminal.foreground": "#ecf009",
+            "terminal.background": "#4e4949"
+        }   
+}
